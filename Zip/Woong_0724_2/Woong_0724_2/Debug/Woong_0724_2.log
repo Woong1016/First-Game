@@ -1,0 +1,3 @@
+﻿  Woong_0724_2.cpp
+C:\Users\user\Desktop\Woong_0724_2\Woong_0724_2\Woong_0724_2.cpp(20,22): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Woong_0724_2.vcxproj -> C:\Users\user\Desktop\Woong_0724_2\Debug\Woong_0724_2.exe
