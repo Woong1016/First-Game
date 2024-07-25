@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\Study\\Test_0722\\Study2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC29DE93-28B3-4962-B568-7E5BD06C61B9}|Study2\\Study2.vcxproj|C:\\Users\\Woong\\Desktop\\Study\\Test_0722\\Study2\\Study2\\Study2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC29DE93-28B3-4962-B568-7E5BD06C61B9}|Study2\\Study2.vcxproj|solutionrelative:Study2\\Study2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Study2.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\Study\\Test_0722\\Study2\\Study2\\Study2.cpp",
+              "RelativeDocumentMoniker": "Study2\\Study2.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\Study\\Test_0722\\Study2\\Study2\\Study2.cpp",
+              "RelativeToolTip": "Study2\\Study2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T18:18:27.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

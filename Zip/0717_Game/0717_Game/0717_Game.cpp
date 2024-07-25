@@ -223,7 +223,7 @@ int main()
 	//			혹은 "둘다 틀려야 틀린걸로 치자"
 
 	bool imkind = condition1 || condition2;
-	std::cout << imkind << std::endl;
+	std::cout << imkind << imkind<<  std::endl;
 
 	// ! : 부정, 뜻은 "이거 아님" 
 	//    더 정확한 뜻은 다른 변수에서 지정된 bool결과의 역전 
@@ -308,5 +308,12 @@ int main()
 	// 그 중에서 사칙연산 결과는 다른 변수로 다시 할당해주세요
 	// 해당 변수들에 대한 일치, 불일치 등 논리 연산도 수행해서 출력해주세요
 	// 선언 할당 뜻은 문서 내에 있음
+
+
+
+
+
+
+
 }
 
