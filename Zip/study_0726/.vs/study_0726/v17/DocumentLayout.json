@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\study_0726\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F832E234-B504-4468-AAB9-5C41384525DC}|study_0726\\study_0726.vcxproj|C:\\Users\\Woong\\Desktop\\study_0726\\study_0726\\study_0726.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F832E234-B504-4468-AAB9-5C41384525DC}|study_0726\\study_0726.vcxproj|solutionrelative:study_0726\\study_0726.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "study_0726.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\study_0726\\study_0726\\study_0726.cpp",
+              "RelativeDocumentMoniker": "study_0726\\study_0726.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\study_0726\\study_0726\\study_0726.cpp",
+              "RelativeToolTip": "study_0726\\study_0726.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T16:44:18.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
