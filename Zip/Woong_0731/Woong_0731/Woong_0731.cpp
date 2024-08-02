@@ -168,6 +168,7 @@ int main()
 
 
 
+
 }
 
 int FirstFuntion()// 자료형 함수이름 () 형태
