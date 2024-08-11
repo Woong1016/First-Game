@@ -82,9 +82,14 @@ int main()
 	}
 	// 패 섞기가 끝나고 나면 , 배열 출력
 
+	std::cout << arr[0] << "\n";
 	for (int i = 0; i < 10; i++)
 	{
+		
+
 		std::cout << arr[i];
+
+		
 	}
 
 	}

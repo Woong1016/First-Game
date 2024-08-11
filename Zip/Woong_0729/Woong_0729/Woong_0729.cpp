@@ -115,7 +115,7 @@ int main()
 			// 해당 값 수정
 			two[i][j] = i + j;//0+0 부터 3+4까지 올라갈 것
 
-			std::cout << two[i][j] << "\t";// \t : 특수 문자 중 하나. 용도는 "폭 맞춤(tab)"
+			std::cout << arr2[i][j] << "\t";// \t : 특수 문자 중 하나. 용도는 "폭 맞춤(tab)"
 		}
 		// 작은 배열 한 주기가 끝날때마다 줄 바꿈
 		std::cout << "\n"; //\n : 특수문자 "개행 ("줄바꿈")
@@ -173,7 +173,7 @@ int main()
 				{
 					std::cout << "♠" << "\t";
 				}
-				else std::cout << two[i][j] << "\t";	// 아니면 숫자
+				else std::cout << arr2[i][j] << "\t";	// 아니면 숫자
 			}
 			
 			std::cout << "\n"; 
