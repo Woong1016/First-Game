@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\Zip\\Woong_0809\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA74300-ED01-467A-A3DB-ED752D6A35C8}|Woong_0809\\Woong_0809.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\Zip\\Woong_0809\\Woong_0809\\Woong_0809.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EA74300-ED01-467A-A3DB-ED752D6A35C8}|Woong_0809\\Woong_0809.vcxproj|solutionrelative:Woong_0809\\Woong_0809.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Woong_0809.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\Zip\\Woong_0809\\Woong_0809\\Woong_0809.cpp",
+              "RelativeDocumentMoniker": "Woong_0809\\Woong_0809.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\Zip\\Woong_0809\\Woong_0809\\Woong_0809.cpp",
+              "RelativeToolTip": "Woong_0809\\Woong_0809.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T15:34:32.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
