@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\source\\repos\\study_0812\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1245CCE1-7D85-417F-A7BE-CBE673D50DFE}|study_0812\\study_0812.vcxproj|C:\\Users\\Woong\\source\\repos\\study_0812\\study_0812\\study_0812.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1245CCE1-7D85-417F-A7BE-CBE673D50DFE}|study_0812\\study_0812.vcxproj|solutionrelative:study_0812\\study_0812.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "study_0812.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\source\\repos\\study_0812\\study_0812\\study_0812.cpp",
+              "RelativeDocumentMoniker": "study_0812\\study_0812.cpp",
+              "ToolTip": "C:\\Users\\Woong\\source\\repos\\study_0812\\study_0812\\study_0812.cpp",
+              "RelativeToolTip": "study_0812\\study_0812.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T15:35:29.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -293,27 +293,27 @@ int main()
         //============================================================================================
         else if (arr[0] == 0 && arr[5] == 0 && arr[10] == 0 && arr[15] == 0 && arr[20] == 0)
         {
-            playerscore++;
+            comscore++;
 
         }
         else if (arr[1] == 0 && arr[6] == 0 && arr[11] == 0 && arr[16] == 0 && arr[21] == 0)
         {
-            playerscore++;
+            comscore++;
 
         }
         else if (arr[2] == 0 && arr[7] == 0 && arr[12] == 0 && arr[17] == 0 && arr[22] == 0)
         {
-            playerscore++;
+            comscore++;
 
         }
         else if (arr[3] == 0 && arr[8] == 0 && arr[13] == 0 && arr[18] == 0 && arr[23] == 0)
         {
-            playerscore++;
+            comscore++;
 
         }
         else if (arr[4] == 0 && arr[9] == 0 && arr[14] == 0 && arr[19] == 0 && arr[24] == 0)
         {
-            playerscore++;
+            comscore++;
 
         }
         //============================================================================================
