@@ -1,0 +1,12 @@
+﻿  Woong_0819.cpp
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(39,2): error C3892: 'aPtrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(43,16): error C2440: '=': 'int'에서 'const int *'(으)로 변환할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(43,12): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(44,16): error C2440: '=': 'int'에서 'int *const '(으)로 변환할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(44,12): message : 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(170,2): error C3892: 'ptrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(198,28): error C2440: '=': 'const char [11]'에서 'const char'(으)로 변환할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(198,12): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(211,14): error C2734: 'id': const 개체는 extern이 아닌 경우 초기화될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(253,2): error C3892: 'xConPtrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0819\Woong_0819\Woong_0819.cpp(254,3): error C3892: 'xConPtrCon': const인 변수에 할당할 수 없습니다.

@@ -40,8 +40,8 @@ int main()
 
 	// 포인터 아님?
 
-	aConPtr = bVar; // 이건 또 외?
-	aPtrCon = bVar; // 또 이건 왜 됨?
+	*aConPtr = bVar; // 이건 또 외?
+	*aPtrCon = bVar; // 또 이건 왜 됨?
 
 	// 왜 안 됨? 머가다름?
 
