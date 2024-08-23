@@ -100,6 +100,9 @@ int main()
 	
 	
 	};
+	
+
+	
 
 
 	// 그리고 구조체는 여러개를 마음대로 만들 수도 있다.
@@ -129,6 +132,7 @@ int main()
 	// instance : 구조체라는 ' 자료형 같은 것 ' 을 원형으로 한 진짜 데이터
 	//				(실질 사례)
 
+	
 
 	// 말하자면
 
@@ -373,7 +377,9 @@ int main()
 		COLOR_BLACK,
 		COLOR_RED,
 		COLOR_GREEN,
-		COLOR_BLUE
+		COLOR_BLUE,
+		진영
+		
 
 		//이렇게만 적어도 열거형이 된다.
 
