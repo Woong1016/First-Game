@@ -2,10 +2,33 @@
 //
 
 #include <iostream>
+#include "MyClass.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    int input;
+    int input2;
+
+    std::cout << "1번 값을 입력하세요" << std::endl;
+    std::cin >> input;
+    std::cout << "2번 값을 입력하세요" << std::endl;
+    std::cin >> input2;
+
+    MyClass myclass;
+
+    std::cout << "1번과 2번을 더한 값" << std::endl;
+    std::cout << myclass.main1(input , input2) << std::endl;
+    std::cout << "1번에서 2번을 뺀 값" << std::endl;
+    std::cout << myclass.main2(input, input2) << std::endl;
+    std::cout << "1번과 2번을 곱한 값" << std::endl;
+    std::cout << myclass.main3(input, input2) << std::endl;
+    std::cout << "1번에서 2번을 나눈 값" << std::endl;
+    std::cout << myclass.main4(input, input2) << std::endl;
+    std::cout << "1번에서 2번을 나눈고 나온 나머지 값" << std::endl;
+    std::cout << myclass.main5(input, input2) << std::endl;
+
+
+   
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴

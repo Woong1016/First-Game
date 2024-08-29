@@ -23,18 +23,6 @@
 // 6. 사칙 연산을 수행한 결과를 모니터에 출력
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #include <iostream>
 #include "SampleOfThePrevious.h"
 #include "MyClass.h" // 클래스 파일 포함
