@@ -138,6 +138,7 @@ int main()
 
     // 기본 형태는 아래와 같다
     MyClass* pointerInstance = new MyClass();
+    MyClass* pointerInstance2 = new MyClass();
 
     // 여기서 MyClass* : 우리가 아는 포인터 연산자, 포인터 형식
     // pointerInstance : 우리가 아는 인스턴스 이름
@@ -156,6 +157,8 @@ int main()
     pointerInstance->Set_X(99999); // 인스턴스의 포인터는 . 대신 -> 연산자
 
     // 이어서 출력
+    std::cout << myClass.Get_X() << std::endl;
+    std::cout << pointerInstance->Get_X() << std::endl;
     std::cout << pointerInstance->Get_X() << std::endl;
     std::cout << pointerInstance->Get_Y() << std::endl;
     std::cout << pointerInstance->Get_Z() << std::endl;
