@@ -8,13 +8,34 @@
 int main()
 {
     char* word = new char[129];
-    char* word2 = new char[129];
+    char* word1 = new char[129];
+    char* word2= new char[129];
+    char* word3 = new char[129];
+    char* word4 = new char[129];
+    char* word5 = new char[129];
+
+    char* wordRemains = NULL;
+    char* wordRemains1 = NULL;
+    char* wordRemains2 = NULL;
+    char* wordRemains3 = NULL;
+    char* wordRemains4 = NULL;
+    char* wordRemains5 = NULL;
+    //char* word1 = new char[129]
+       
     char* Status = new char[129];
     char* name = new char[129];
-    char* wordRemains = NULL;
     
-    strcpy_s(name, 20, "박,진,웅");//Name : SOFIA,
-    strcpy_s(Status, 50, "안,녕,하,세,요");//: HP: 150,MP:100,STR:10,DEF:10,LUk:100
+    
+    for (int i = 0; i < 7; i++)
+    {
+        word[i];
+        wordRemains[i];
+    }
+
+    
+    
+    strcpy_s(name, 20, "Name : SOFIA,");//Name : SOFIA,
+    strcpy_s(Status, 50, "HP: 150,MP:100,STR:500,DEF:10,LUk:100");//: HP: 150,MP:100,STR:10,DEF:10,LUk:100
     
     std::cout << name << std::endl;
     std::cout << Status << std::endl;
@@ -22,16 +43,25 @@ int main()
     std::cout << name << std::endl;
     
     word = strtok_s(name, ",", &wordRemains);
-    word2 = strtok_s(wordRemains, ",", &wordRemains);
+    std::cout << word << std::endl;
+    word1 = strtok_s(wordRemains, ",", &wordRemains1);
+    std::cout << word1 << std::endl;
+    word2 = strtok_s(wordRemains1, ",", &wordRemains2);
+    std::cout << word2 << std::endl;
+    word3 = strtok_s(wordRemains2, ",", &wordRemains3);
+    std::cout << word3 << std::endl;
+    word4 = strtok_s(wordRemains3, ",", &wordRemains4);
+    std::cout << word4 << std::endl;
+    word5 = strtok_s(wordRemains4, ",", &wordRemains5);
+    std::cout << word5 << std::endl;
+    //for (int i = 1; i < 7; i++)
+    //{
 
-    
-     
-    for (int i = 0; i < 5; i++)
-    {
-       // std::cout << word << wordRemains<<std::endl;
-
-        std::cout << wordRemains << std::endl;
-    }
+    //    
+    //   //std::cout << word[i] <<std::endl;
+    //   
+    //    
+    //}
    
    
     
@@ -43,13 +73,14 @@ int main()
 
 }
 
-// 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
-// 프로그램 디버그: <F5> 키 또는 [디버그] > [디버깅 시작] 메뉴
+/*for (int i = 0; i < 7; i++)
+    {
+        word[i];
 
-// 시작을 위한 팁: 
-//   1. [솔루션 탐색기] 창을 사용하여 파일을 추가/관리합니다.
-//   2. [팀 탐색기] 창을 사용하여 소스 제어에 연결합니다.
-//   3. [출력] 창을 사용하여 빌드 출력 및 기타 메시지를 확인합니다.
-//   4. [오류 목록] 창을 사용하여 오류를 봅니다.
-//   5. [프로젝트] > [새 항목 추가]로 이동하여 새 코드 파일을 만들거나, [프로젝트] > [기존 항목 추가]로 이동하여 기존 코드 파일을 프로젝트에 추가합니다.
-//   6. 나중에 이 프로젝트를 다시 열려면 [파일] > [열기] > [프로젝트]로 이동하고 .sln 파일을 선택합니다.
+        for (int j = 0; j - i < 7; j++)
+        {
+            word = strtok_s(wordRemains[i], ",", &wordRemains2);
+
+        }
+        
+    }*/
