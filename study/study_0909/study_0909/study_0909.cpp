@@ -4,14 +4,17 @@
 #include <string>
 #include "study.h"
 #include <cstdlib>
+
+
 using namespace std;
 int main()
 {
 	int input;
 
+	
 	std::vector<string>data = { "피카츄","야돈","박진웅","피츄","리자몽","꼬부기" };
 	std::vector<string>data1 = { "empty","empty","empty","empty","empty","empty" };
-
+	std::vector<string>data2;
 	vector<string>::iterator it;
 
 

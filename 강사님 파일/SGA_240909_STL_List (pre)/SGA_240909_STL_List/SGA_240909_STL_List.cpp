@@ -2,6 +2,7 @@
 #include "Shop.h"
 
 
+
 //과제제제제제제제제제제(리스트 이해)
 
 //1. 리스트에서 우리는 인덱스 [] 연산이 불가능하다는 것을 알았습니다.
@@ -27,6 +28,8 @@
 //STL 자료구조 : 리스트 + 연결리스트
 #include <list> // 리스트 자료구조 기능
 
+
+
 int main()
 {
     Shop* shop = new Shop();
@@ -47,6 +50,8 @@ int main()
 
 	//일단은 만들어보자
 
+	
+	
 	std::list<int>intList; // 리스트 선언
 							// 벡터와 마찬가지로 <>를 통해
 							// 어떤 자료형의리스트인지 선언 필요 
@@ -104,8 +109,10 @@ int main()
 	// 요약 : 리스트는 []연산 불가 
 
 	// 하지만 클래스 내에 있는 포인터 클래스는 여전히 쓸 수 있다.
-	//= std::list<>::iterator <- 이가
+	//= std::list<>::iterator <- 이거
 	std::list<int> ::iterator iter = intList.begin(); // 이건 된다
+
+	std::cout << *iter << std::endl;
 
 	//그러므로 포인터 클래스를 응용하면 리스트도 출력, 호출이 가능하다
 										//시작 상황: 부연 필요없음 (지금 그대로)

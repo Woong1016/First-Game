@@ -1,7 +1,8 @@
 ﻿  Woong_0906.cpp
-C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(297,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(359,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(365,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(374,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(380,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  Woong_0906.vcxproj -> C:\Users\user\Desktop\First-Game\Zip\Woong_0906\Debug\Woong_0906.exe
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(335,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(397,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(403,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(412,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Woong_0906\Woong_0906.cpp(421,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  LINK : C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Debug\Woong_0906.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Woong_0906.vcxproj -> C:\Users\Woong\Desktop\First-Game\Zip\Woong_0906\Debug\Woong_0906.exe

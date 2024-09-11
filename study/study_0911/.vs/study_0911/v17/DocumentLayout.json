@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081F4A3C-B18C-41DC-8A11-44D3E4F4CB47}|study_0911\\study_0911.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\this.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081F4A3C-B18C-41DC-8A11-44D3E4F4CB47}|study_0911\\study_0911.vcxproj|solutionrelative:study_0911\\this.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081F4A3C-B18C-41DC-8A11-44D3E4F4CB47}|study_0911\\study_0911.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\study_0911.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{081F4A3C-B18C-41DC-8A11-44D3E4F4CB47}|study_0911\\study_0911.vcxproj|solutionrelative:study_0911\\study_0911.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "this.h",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\this.h",
+              "RelativeDocumentMoniker": "study_0911\\this.h",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\this.h",
+              "RelativeToolTip": "study_0911\\this.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T20:01:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "study_0911.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\study_0911.cpp",
+              "RelativeDocumentMoniker": "study_0911\\study_0911.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0911\\study_0911\\study_0911.cpp",
+              "RelativeToolTip": "study_0911\\study_0911.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T19:42:29.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
