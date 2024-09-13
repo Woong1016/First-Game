@@ -17,6 +17,7 @@ int main()
 	std::vector<string>data2;
 	vector<string>::iterator it;
 
+	std::vector<string>data3;
 
 	for (int i = 0; i < 6;++i)
 		{

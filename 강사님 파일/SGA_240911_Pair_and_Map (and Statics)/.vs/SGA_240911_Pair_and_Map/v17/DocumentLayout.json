@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240911_Pair_and_Map (and Statics)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC948701-8758-459A-ACE9-849938355034}|SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240911_Pair_and_Map (and Statics)\\SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC948701-8758-459A-ACE9-849938355034}|SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.vcxproj|solutionrelative:SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGA_240911_Pair_and_Map.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240911_Pair_and_Map (and Statics)\\SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp",
+              "RelativeDocumentMoniker": "SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240911_Pair_and_Map (and Statics)\\SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp",
+              "RelativeToolTip": "SGA_240911_Pair_and_Map\\SGA_240911_Pair_and_Map.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T19:17:40.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
