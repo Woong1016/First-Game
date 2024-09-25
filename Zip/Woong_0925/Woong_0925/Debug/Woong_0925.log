@@ -1,0 +1,7 @@
+﻿  SampleSingleton.cpp
+  Woong_0925.cpp
+C:\Users\user\Desktop\First-Game\Zip\Woong_0925\Woong_0925\Woong_0925.cpp(127,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\Desktop\First-Game\Zip\Woong_0925\Woong_0925\Woong_0925.cpp(151,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+Woong_0925.obj : error LNK2005: "private: static class SampleSingleton * SampleSingleton::instance" (?instance@SampleSingleton@@0PAV1@A)이(가) SampleSingleton.obj에 이미 정의되어 있습니다.
+C:\Users\user\Desktop\First-Game\Zip\Woong_0925\Debug\Woong_0925.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
