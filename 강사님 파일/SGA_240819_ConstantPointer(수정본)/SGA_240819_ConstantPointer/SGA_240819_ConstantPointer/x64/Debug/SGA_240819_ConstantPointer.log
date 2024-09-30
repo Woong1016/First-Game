@@ -1,0 +1,12 @@
+﻿  SGA_240819_ConstantPointer.cpp
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\BubbleSort.h(11,25): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(63,5): error C3892: 'aPtrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(67,6): error C3892: 'aConPtr': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(130,6): error C3892: 'conPtr': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(150,6): error C3892: 'xCP': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(177,5): error C3892: 'ptrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(206,32): error C2440: '=': 'const char [12]'에서 'const char'(으)로 변환할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(206,15): message : 이 변환이 가능한 컨텍스트가 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(218,17): error C2734: 'id': const 개체는 extern이 아닌 경우 초기화될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(259,5): error C3892: 'xConPtrCon': const인 변수에 할당할 수 없습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240819_ConstantPointer(수정본)\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer\SGA_240819_ConstantPointer.cpp(260,6): error C3892: 'xConPtrCon': const인 변수에 할당할 수 없습니다.

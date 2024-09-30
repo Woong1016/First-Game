@@ -139,6 +139,7 @@ int main()
     // 기본 형태는 아래와 같다
     MyClass* pointerInstance = new MyClass();
     MyClass* pointerInstance2 = new MyClass();
+    MyClass* pointerInstance3 = new MyClass();
 
     // 여기서 MyClass* : 우리가 아는 포인터 연산자, 포인터 형식
     // pointerInstance : 우리가 아는 인스턴스 이름
@@ -243,5 +244,13 @@ int main()
 
     // * 연산자가 없는 C#, 자바, 파이썬 등의 현대 프로그래밍 언어조차
     // this라는 포인터만큼은 남겨놨다 : 그만큼 중요하고 중요하다!
+
+
+   
+
+    std::cout << "은빈이는 후타나리 봇치를 좋아해요" << std::endl;
+
+
+
 
 }

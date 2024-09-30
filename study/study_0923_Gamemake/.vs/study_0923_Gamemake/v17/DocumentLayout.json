@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0923_Gamemake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B373B449-E69A-443E-94B9-06180ED7D03D}|study_0923_Gamemake\\study_0923_Gamemake.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0923_Gamemake\\study_0923_Gamemake\\study_0923_Gamemake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B373B449-E69A-443E-94B9-06180ED7D03D}|study_0923_Gamemake\\study_0923_Gamemake.vcxproj|solutionrelative:study_0923_Gamemake\\study_0923_Gamemake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "study_0923_Gamemake.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0923_Gamemake\\study_0923_Gamemake\\study_0923_Gamemake.cpp",
+              "RelativeDocumentMoniker": "study_0923_Gamemake\\study_0923_Gamemake.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\study_0923_Gamemake\\study_0923_Gamemake\\study_0923_Gamemake.cpp",
+              "RelativeToolTip": "study_0923_Gamemake\\study_0923_Gamemake.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T15:04:43.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
