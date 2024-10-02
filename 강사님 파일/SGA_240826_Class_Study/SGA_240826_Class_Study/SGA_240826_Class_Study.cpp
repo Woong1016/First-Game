@@ -248,7 +248,7 @@ int main()
 
    
 
-    std::cout << "은빈이는 후타나리 봇치를 좋아해요" << std::endl;
+   
 
 
 

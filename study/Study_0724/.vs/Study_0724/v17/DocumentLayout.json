@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\Study_0724\\",
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\Study_0724\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B13C91D9-FD5D-4097-9D7F-59EBE96F6884}|Study_0724\\Study_0724.vcxproj|C:\\Users\\Woong\\Desktop\\Study_0724\\Study_0724\\Study_0724.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B13C91D9-FD5D-4097-9D7F-59EBE96F6884}|Study_0724\\Study_0724.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\study\\Study_0724\\Study_0724\\Study_0724.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B13C91D9-FD5D-4097-9D7F-59EBE96F6884}|Study_0724\\Study_0724.vcxproj|solutionrelative:Study_0724\\Study_0724.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Study_0724.cpp",
-              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\Study_0724\\Study_0724\\Study_0724.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\Study_0724\\Study_0724\\Study_0724.cpp",
               "RelativeDocumentMoniker": "Study_0724\\Study_0724.cpp",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\Study_0724\\Study_0724\\Study_0724.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\study\\Study_0724\\Study_0724\\Study_0724.cpp",
               "RelativeToolTip": "Study_0724\\Study_0724.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-25T16:32:34.985Z",
               "EditorCaption": ""
