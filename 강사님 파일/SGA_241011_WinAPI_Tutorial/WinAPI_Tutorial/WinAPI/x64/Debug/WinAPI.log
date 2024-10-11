@@ -1,0 +1,10 @@
+﻿  GameManager.cpp
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.h(6,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  TutorialScene.cpp
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.h(6,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.cpp(67,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.cpp(67,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.cpp(67,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\WinAPI\Scenes\TutorialScene.cpp(67,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  WinAPI.vcxproj -> C:\Users\user\Desktop\First-Game\강사님 파일\SGA_241011_WinAPI_Tutorial\WinAPI_Tutorial\x64\Debug\WinAPI.exe
