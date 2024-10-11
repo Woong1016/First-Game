@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240909_STL_List (pre)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EDFE40-FAD0-454F-9B22-171E3BE268BA}|SGA_240909_STL_List\\SGA_240909_STL_List.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240909_STL_List (pre)\\SGA_240909_STL_List\\SGA_240909_STL_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EDFE40-FAD0-454F-9B22-171E3BE268BA}|SGA_240909_STL_List\\SGA_240909_STL_List.vcxproj|solutionrelative:SGA_240909_STL_List\\SGA_240909_STL_List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGA_240909_STL_List.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240909_STL_List (pre)\\SGA_240909_STL_List\\SGA_240909_STL_List.cpp",
+              "RelativeDocumentMoniker": "SGA_240909_STL_List\\SGA_240909_STL_List.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240909_STL_List (pre)\\SGA_240909_STL_List\\SGA_240909_STL_List.cpp",
+              "RelativeToolTip": "SGA_240909_STL_List\\SGA_240909_STL_List.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T20:36:39.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

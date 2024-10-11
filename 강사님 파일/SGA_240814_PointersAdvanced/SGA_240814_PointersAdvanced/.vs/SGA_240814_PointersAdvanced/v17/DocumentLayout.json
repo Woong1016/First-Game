@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\ChangeBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|solutionrelative:SGA_240814_PointersAdvanced\\ChangeBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\PointerPrincipals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|solutionrelative:SGA_240814_PointersAdvanced\\PointerPrincipals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|solutionrelative:SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\ChangeBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93D89B5-3E72-42A4-87EB-7658E1F75E51}|SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.vcxproj|solutionrelative:SGA_240814_PointersAdvanced\\ChangeBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PointerPrincipals.h",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\PointerPrincipals.h",
+              "RelativeDocumentMoniker": "SGA_240814_PointersAdvanced\\PointerPrincipals.h",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\PointerPrincipals.h",
+              "RelativeToolTip": "SGA_240814_PointersAdvanced\\PointerPrincipals.h",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-06T16:05:42.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ChangeBoard.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\ChangeBoard.h",
               "RelativeDocumentMoniker": "SGA_240814_PointersAdvanced\\ChangeBoard.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\ChangeBoard.h",
               "RelativeToolTip": "SGA_240814_PointersAdvanced\\ChangeBoard.h",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-29T07:04:33.345Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.cpp",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.cpp",
               "RelativeToolTip": "SGA_240814_PointersAdvanced\\SGA_240814_PointersAdvanced.cpp",
-              "ViewState": "AQIAACMBAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T06:54:52.437Z",
               "EditorCaption": ""

@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B70F3DFE-5357-4D43-9E25-9E3611EB4D25}|SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B70F3DFE-5357-4D43-9E25-9E3611EB4D25}|SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.vcxproj|solutionrelative:SGA_240830_Class_Inheritance\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70F3DFE-5357-4D43-9E25-9E3611EB4D25}|SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B70F3DFE-5357-4D43-9E25-9E3611EB4D25}|SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.vcxproj|solutionrelative:SGA_240830_Class_Inheritance\\Worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.h",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Worker.h",
+              "RelativeDocumentMoniker": "SGA_240830_Class_Inheritance\\Worker.h",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Worker.h",
+              "RelativeToolTip": "SGA_240830_Class_Inheritance\\Worker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T19:05:19.355Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,7 +53,7 @@
               "RelativeDocumentMoniker": "SGA_240830_Class_Inheritance\\Citizen.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Citizen.h",
               "RelativeToolTip": "SGA_240830_Class_Inheritance\\Citizen.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-01T08:46:38.425Z",
               "EditorCaption": ""
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "SGA_240830_Class_Inheritance\\Human.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\Human.h",
               "RelativeToolTip": "SGA_240830_Class_Inheritance\\Human.h",
-              "ViewState": "AQIAACEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-01T08:46:26.194Z",
               "EditorCaption": ""
@@ -73,9 +90,9 @@
               "Title": "SGA_240830_Class_Inheritance.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp",
               "RelativeDocumentMoniker": "SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp",
-              "RelativeToolTip": "SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp*",
+              "RelativeToolTip": "SGA_240830_Class_Inheritance\\SGA_240830_Class_Inheritance.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T08:46:04.612Z",
               "EditorCaption": ""

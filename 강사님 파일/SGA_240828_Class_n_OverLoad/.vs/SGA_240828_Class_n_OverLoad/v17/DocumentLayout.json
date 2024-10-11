@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SampleCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\SampleCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\UseSampleCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\UseSampleCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\UseSampleCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|solutionrelative:SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3BC3AB27-616F-4656-802B-23A3C05C5C0B}|SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\MyCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UseSampleCharacter.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\UseSampleCharacter.cpp",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\UseSampleCharacter.cpp",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\UseSampleCharacter.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-01T15:32:38.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T15:32:38.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UseSampleCharacter.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\UseSampleCharacter.h",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\UseSampleCharacter.h",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\UseSampleCharacter.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-01T15:32:20.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T15:32:20.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SampleCharacter.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SampleCharacter.cpp",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\SampleCharacter.cpp",
@@ -84,31 +82,29 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\SampleCharacter.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-01T15:32:37.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T15:32:37.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SampleCharacter.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SampleCharacter.h",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\SampleCharacter.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SampleCharacter.h",
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\SampleCharacter.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-01T15:32:28.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T15:32:28.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SGA_240828_Class_n_OverLoad.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp",
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAAUAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-29T19:15:06.278Z",
               "EditorCaption": ""
@@ -123,18 +119,17 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\MyCharacterBase.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-01T17:33:02.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T17:33:02.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MyCharacterBase.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp",
               "RelativeDocumentMoniker": "SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240828_Class_n_OverLoad\\SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp",
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\MyCharacterBase.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-01T15:32:35.791Z",
               "EditorCaption": ""
@@ -149,8 +144,7 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\MyCharacter.cpp",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-31T18:37:40.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T18:37:40.42Z"
             },
             {
               "$type": "Document",
@@ -162,8 +156,7 @@
               "RelativeToolTip": "SGA_240828_Class_n_OverLoad\\MyCharacter.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-31T18:37:43.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T18:37:43.198Z"
             }
           ]
         }
