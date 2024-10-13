@@ -14,10 +14,10 @@ void SpawnObject::Update()
 {
     if (!isActive) return;
 
-    //playTime += DELTA;
-    //
-    //if (playTime >= lifeTime)
-    //    Destroy();
+    playTime += DELTA;
+    
+    if (playTime >= lifeTime)
+        Destroy();
 }
 
 void SpawnObject::Render(HDC hdc)

@@ -26,11 +26,18 @@ void TutorialScene::Update()
 	//
     //if (GetAsyncKeyState(VK_RETURN))		//.GetAsyncKeyState : 키값 변화 감지 함수
 											//. = 키를 눌러도 true , 떼도 true, 누르고 있어도 다 true
-    //if (Keyboard::Get()->Down(VK_RETURN))	// 키보드 클래스의 기능을 써서 , Down = 키를 처음 누를때만 true
-    if (KEY_DOWN(VK_RETURN)) // 위와 똑같다, 단, 매크로를 쓴것 framework.h에서 확인 가능
- 
+    if (Keyboard::Get()->Down(VK_RETURN))   // 키보드 클래스의 기능을 써서 , Down = 키를 처음 누를때만 true
+	{
+		count++;	
+	}
+
+	SpawnManager::Get()->Update();
+	SpawnManager::Get()->DestoryObject(rect);
+
+	//if (KEY_DOWN(VK_RETURN)) // 위와 똑같다, 단, 매크로를 쓴것 framework.h에서 확인 가능
+	
 		
-		count++;
+		
 	VK_LBUTTON; //. 주의: 마우스의 왼쪽 버튼 아님. 윈도우의 좌클릭임
 				// 차이가 있는가? 윈도우의 좌클릭은 마우스의 "결정" 버튼에 뜻하는 것
 				// 마우스의 결정 버튼의 위치는 다시 윈도우의 설정에서 바꿀 수가 있다.
@@ -69,4 +76,6 @@ void TutorialScene::Render(HDC hdc)
 	//윗줄 긴 코드 대신, 이제 만들어진 rect에서 간편 함수 호출만
 
 	rect->Render(hdc); // 모니터에 사각형을 Render하라 끝
+
+	SpawnManager::Get()->Render(hdc);
 }

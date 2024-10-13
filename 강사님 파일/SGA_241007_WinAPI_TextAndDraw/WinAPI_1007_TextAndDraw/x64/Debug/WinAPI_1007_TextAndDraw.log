@@ -1,0 +1,6 @@
+﻿  WinAPI_1007_TextAndDraw.cpp
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_241007_WinAPI_TextAndDraw\WinAPI_1007_TextAndDraw\WinAPI_1007_TextAndDraw.cpp(309,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_241007_WinAPI_TextAndDraw\WinAPI_1007_TextAndDraw\WinAPI_1007_TextAndDraw.cpp(308,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_241007_WinAPI_TextAndDraw\WinAPI_1007_TextAndDraw\WinAPI_1007_TextAndDraw.cpp(307,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_241007_WinAPI_TextAndDraw\WinAPI_1007_TextAndDraw\WinAPI_1007_TextAndDraw.cpp(306,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinAPI_1007_TextAndDraw.vcxproj -> C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_241007_WinAPI_TextAndDraw\x64\Debug\WinAPI_1007_TextAndDraw.exe

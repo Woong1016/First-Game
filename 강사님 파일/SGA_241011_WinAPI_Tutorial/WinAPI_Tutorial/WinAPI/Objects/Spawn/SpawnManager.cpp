@@ -17,7 +17,7 @@ SpawnManager::~SpawnManager()
 
 void SpawnManager::Update()
 {
-    if(KEY_DOWN(VK_LBUTTON))
+    if(KEY_DOWN(VK_RETURN))
     {
         for (SpawnObject* spawnObjecct : spawnObjects)
         {

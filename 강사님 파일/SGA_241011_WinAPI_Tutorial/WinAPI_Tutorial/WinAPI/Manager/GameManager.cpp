@@ -19,6 +19,7 @@ GameManager::~GameManager()
     Keyboard::Delete();
 }
 
+
 void GameManager::Init(HWND hWnd)	// 게임매니저가 본격적으로 시작하면
 
 
@@ -46,6 +47,8 @@ void GameManager::Update()
 	//. 변화가 생기면 즉시 게임에 반영하는 역할을 한다.
 	// 예: 키보드가 눌리면 감지하거나, 마우스가 움직이면 위치를 기록하거나
 	//. 응용하면 자동으로 애니메이션이 재생되거나,,, (앱 내부에서 그림이 바뀌거나)
+
+	
 
 	// 그러므로 게임이 업데이트 되는 사이에...
     Timer::Get()->Update(); //. 타이머가 업데이트 되어야 한다면 역시 수행
