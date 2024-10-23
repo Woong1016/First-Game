@@ -109,7 +109,7 @@ int main()
 	// 요약 : 리스트는 []연산 불가 
 
 	// 하지만 클래스 내에 있는 포인터 클래스는 여전히 쓸 수 있다.
-	//= std::list<>::iterator <- 이거
+	std::list<int >::iterator it;// < -이거
 	std::list<int> ::iterator iter = intList.begin(); // 이건 된다
 
 	std::cout << *iter << std::endl;

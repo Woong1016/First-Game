@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129F9F42-D40C-4215-A47C-3AE2F817A89F}|SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{129F9F42-D40C-4215-A47C-3AE2F817A89F}|SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.vcxproj|solutionrelative:SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SGA_240821_StructAndEnum.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp",
+              "RelativeDocumentMoniker": "SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp",
+              "RelativeToolTip": "SGA_240821_StructAndEnum\\SGA_240821_StructAndEnum.cpp",
+              "ViewState": "AQIAAEQBAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T16:53:49.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

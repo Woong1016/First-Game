@@ -1,0 +1,6 @@
+﻿  Cstr.cpp
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240904_STL_String\SGA_240904_STL_String\Cstr.cpp(10,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SGA_240904_STL_String.cpp
+C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240904_STL_String\SGA_240904_STL_String\SGA_240904_STL_String.cpp(165,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  SGA_240904_STL_String.vcxproj -> C:\Users\Woong\Desktop\First-Game\강사님 파일\SGA_240904_STL_String\x64\Debug\SGA_240904_STL_String.exe

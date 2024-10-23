@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Scenes\\TutorialScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Scenes\\TutorialScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Objects\\Basic\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Objects\\Basic\\Rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,12 +15,28 @@
       "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Objects\\Basic\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Objects\\Basic\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Objects\\Basic\\Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Scenes\\TutorialScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Scenes\\TutorialScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Manager\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\Manager\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F04AC82A-7A71-432B-ADE7-2439DF1160A8}|WinAPI\\WinAPI.vcxproj|solutionrelative:WinAPI\\WinAPI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,33 +54,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WinAPI.cpp",
-              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp",
-              "RelativeDocumentMoniker": "WinAPI\\WinAPI.cpp",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp",
-              "RelativeToolTip": "WinAPI\\WinAPI.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T05:11:03.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.h",
               "RelativeDocumentMoniker": "WinAPI\\Manager\\GameManager.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.h",
               "RelativeToolTip": "WinAPI\\Manager\\GameManager.h",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvwAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-16T04:45:16.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TutorialScene.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.h",
               "RelativeDocumentMoniker": "WinAPI\\Scenes\\TutorialScene.h",
@@ -93,26 +80,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TutorialScene.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.cpp",
               "RelativeDocumentMoniker": "WinAPI\\Scenes\\TutorialScene.cpp",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Scenes\\TutorialScene.cpp",
               "RelativeToolTip": "WinAPI\\Scenes\\TutorialScene.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAFAAAA",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T20:28:05.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Rect.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.cpp",
+              "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Rect.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.cpp",
+              "RelativeToolTip": "WinAPI\\Objects\\Basic\\Rect.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T20:28:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WinAPI.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp",
+              "RelativeDocumentMoniker": "WinAPI\\WinAPI.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\WinAPI.cpp",
+              "RelativeToolTip": "WinAPI\\WinAPI.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T05:11:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Rect.h",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.h",
               "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Rect.h",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.h",
               "RelativeToolTip": "WinAPI\\Objects\\Basic\\Rect.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-15T20:28:00.891Z",
               "EditorCaption": ""
@@ -120,53 +132,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Circle.h",
-              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.h",
-              "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Circle.h",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.h",
-              "RelativeToolTip": "WinAPI\\Objects\\Basic\\Circle.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T20:27:58.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rect.cpp",
-              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.cpp",
-              "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Rect.cpp",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Rect.cpp",
-              "RelativeToolTip": "WinAPI\\Objects\\Basic\\Rect.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.cpp",
+              "RelativeDocumentMoniker": "WinAPI\\Manager\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Manager\\GameManager.cpp",
+              "RelativeToolTip": "WinAPI\\Manager\\GameManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T20:28:00.299Z",
+              "WhenOpened": "2024-10-20T15:35:21.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.h",
+              "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Circle.h",
+              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.h",
+              "RelativeToolTip": "WinAPI\\Objects\\Basic\\Circle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-20T15:41:07.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Circle.cpp",
               "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.cpp",
               "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\Circle.cpp",
               "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\Circle.cpp",
               "RelativeToolTip": "WinAPI\\Objects\\Basic\\Circle.cpp",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAADcAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T20:27:57.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameObject.h",
-              "DocumentMoniker": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\GameObject.h",
-              "RelativeDocumentMoniker": "WinAPI\\Objects\\Basic\\GameObject.h",
-              "ToolTip": "C:\\Users\\Woong\\Desktop\\First-Game\\\uAC15\uC0AC\uB2D8 \uD30C\uC77C\\SGA_241014WinAPI_RectCollision\\WinAPI_RectCollision\\WinAPI\\Objects\\Basic\\GameObject.h",
-              "RelativeToolTip": "WinAPI\\Objects\\Basic\\GameObject.h",
-              "ViewState": "AQIAABgAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-15T20:27:59.395Z",
               "EditorCaption": ""
             }
           ]

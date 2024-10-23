@@ -1,0 +1,4 @@
+﻿  BitmapScene.cpp
+C:\Users\user\Desktop\WinAPI_ReflectingObject\WinAPI_ReflectingObject\WinAPI\Scenes\BitmapScene.cpp(143,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\WinAPI_ReflectingObject\WinAPI_ReflectingObject\WinAPI\Scenes\BitmapScene.cpp(142,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WinAPI.vcxproj -> C:\Users\user\Desktop\WinAPI_ReflectingObject\WinAPI_ReflectingObject\x64\Debug\WinAPI.exe

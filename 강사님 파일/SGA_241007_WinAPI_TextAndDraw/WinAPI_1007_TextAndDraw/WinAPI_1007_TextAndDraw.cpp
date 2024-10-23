@@ -209,15 +209,15 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
             // winAPI에서 문자 출력 수단 : TextOut...라는 함수
 
-            TextOut( hdc,                   // 어느 출력 위치에?
-                     200,                   // 가로 어디에? (x 좌표)
-                     100,                   // 세로 어디에? (y 좌표)
-                     L"Hello world!",       // 무슨 글자를?
-                     12                     // 몇 글자나?
-            );                              // ....출력할 것인가?
+          // TextOut( hdc,                   // 어느 출력 위치에?
+          //          200,                   // 가로 어디에? (x 좌표)
+          //          100,                   // 세로 어디에? (y 좌표)
+          //          L"Hello world!",       // 무슨 글자를?
+          //          12                     // 몇 글자나?
+          // );                              // ....출력할 것인가?
 
             //다른 글자도 가능
-            TextOut(hdc, 300, 250, L"안녕하세요!", 12);
+            //TextOut(hdc, 300, 250, L"안녕하세요!", 12);
             // 마지막 글자 수 인수가 문자 개수와 안 맞으면 빈 칸만큼 이상한 기호 출현
             // 또한 윈도우 문자 설정에 따라, 한글을 적어도 1글자로 취급되거나
             // 2바이트 이상 문자를 출력할 때 크기가 늘어나서 출력되거나 둘 중 하나
@@ -239,12 +239,12 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             // 첫 번째 : "그리기 초점 옮기기"
 
             // MoveToEx : '컴퓨터의 초점' 이동하기
-            MoveToEx(hdc, 500, 50, NULL);
+            MoveToEx(hdc,600, 150, NULL);
             // 각각 출력위치, 가로 지정위치, 세로 지정위치, 추가 요청
 
             // 두 번째 : "직선 그리기"
 
-            LineTo(hdc, 600, 400);  // 초점을 옮기면서, 궤적을 그리는 코드
+            LineTo(hdc, 600, 600);  // 초점을 옮기면서, 궤적을 그리는 코드
             // 따라서.....
             // MoveToEx 함수로 컴퓨터가 먼저 500, 50 위치에 초점을 옮기고
             // (이 때는 아무 것도 안 그려짐)
@@ -258,11 +258,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
             // 작성 방법
 
-            Rectangle(hdc,  // 출력 위치
-                      200,  // 왼쪽 변의 (기준으로부터의) 거리
-                      200,  // 위쪽 변의 거리
-                      500,  // 오른쪽 변
-                      500); // 아래쪽
+           //Rectangle(hdc,  // 출력 위치
+           //          200,  // 왼쪽 변의 (기준으로부터의) 거리
+           //          200,  // 위쪽 변의 거리
+           //          500,  // 오른쪽 변
+           //          500); // 아래쪽
 
             // 그런데 왜 직사각형인가?
             // 1. 윈도우에선 가로 세로끼리 길이가 같으면 빨라진다
@@ -275,7 +275,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 
             //3. 타원
 
-            Ellipse(hdc, 500, 500, 250, 250);
+           // Ellipse(hdc, 500, 500, 250, 250);
 
             // * 비슷한 위치에 다른 글자나 도형이 다시 출력될 경우
             //   다른 말로 윗줄 코드에 의해 그려진 글자나 도형이
@@ -302,11 +302,11 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
             //   -> 전역변수 자리에 만든 후, 값을 할당하고 돌아온다
 
             // 위에서 만든 mouseX, mouseY를 사용해서 도형이 그려질 위치 지정
-            Rectangle(hdc,
-                mouseX - 100,
-                mouseY - 100,
-                mouseX + 100,
-                mouseY + 100);
+           //Rectangle(hdc,
+           //    mouseX - 100,
+           //    mouseY - 100,
+           //    mouseX + 100,
+           //    mouseY + 100);
             // 커서 기준으로 사방으로 위치를 재조정한 사각형 그리기
 
             // 이후 (아무 준비 없이) 실행하면 0, 0 위치에 사각형이 그려진다
